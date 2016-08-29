@@ -6,7 +6,7 @@ body {
 }
 
 .header {
-  background: rgba(54,1285,108,0.4);
+  background: rgba(154,185,108,0.4);
   margin-bottom: 40px;
   padding: 10px 0;
 }
@@ -17,7 +17,7 @@ body {
 }
 
 .header h1 {
-  color: rgba(14,135,108,0.4);
+  color: rgba(28,135,108,0.4);
   text-transform: uppercase;
   display: inline-block;
 }
@@ -72,7 +72,7 @@ body {
 .tool input {
   border-radius: 0;
   border: 0;
-  border-bottom: 5px solid rgba(14,135,168,0.4);
+  border-bottom: 5px solid rgba(24,135,168,0.4);
   box-shadow: none;
 }
 

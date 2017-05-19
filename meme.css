@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-=======
 
-
->>>>>>> 8965411a7bc708f360f53e3a122aee4a415ed44e
 html,
 body {
   margin: 0;
@@ -47,11 +43,7 @@ body {
 }
 
 .top-caption,
-<<<<<<< HEAD
 .bottom-caption,.up-caption{
-=======
-.bottom-caption {
->>>>>>> 8965411a7bc708f360f53e3a122aee4a415ed44e
   font-family: Impact, sans-serif;
   color: #fff;
   text-shadow: #000 0px 0px 6px;
@@ -68,7 +60,7 @@ body {
   position: absolute;
 }
 
-<<<<<<< HEAD
+
 .up-caption {
   top: 10px;
   left: 0;
@@ -76,8 +68,7 @@ body {
   margin: 0 auto;
   position: absolute;
 }
-=======
->>>>>>> 8965411a7bc708f360f53e3a122aee4a415ed44e
+
 .bottom-caption {
   bottom: 10px;
   left: 0;
@@ -182,8 +173,8 @@ font-weight:600}
 img.col-md-6{
 padding:50px;
 width:100%}
-<<<<<<< HEAD
+
 }
-=======
+
 }
->>>>>>> 8965411a7bc708f360f53e3a122aee4a415ed44e
+
